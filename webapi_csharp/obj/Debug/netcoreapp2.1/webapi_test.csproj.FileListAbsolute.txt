@@ -1,0 +1,13 @@
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_test.deps.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_test.runtimeconfig.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_test.runtimeconfig.dev.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_test.dll
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_test.pdb
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.csproj.CoreCompileInputs.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.RazorAssemblyInfo.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.RazorAssemblyInfo.cs
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.AssemblyInfoInputs.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.AssemblyInfo.cs
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.RazorTargetAssemblyInfo.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.dll
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_test.pdb

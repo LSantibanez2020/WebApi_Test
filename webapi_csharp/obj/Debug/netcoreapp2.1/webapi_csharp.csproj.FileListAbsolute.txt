@@ -1,0 +1,13 @@
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_csharp.deps.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_csharp.runtimeconfig.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_csharp.runtimeconfig.dev.json
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_csharp.dll
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\bin\Debug\netcoreapp2.1\webapi_csharp.pdb
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.csproj.CoreCompileInputs.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.RazorAssemblyInfo.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.RazorAssemblyInfo.cs
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.AssemblyInfoInputs.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.AssemblyInfo.cs
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.RazorTargetAssemblyInfo.cache
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.dll
+C:\Users\ext_lsantibanez\source\repos\webapi_csharp\webapi_csharp\obj\Debug\netcoreapp2.1\webapi_csharp.pdb
